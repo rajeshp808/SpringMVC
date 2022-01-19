@@ -1,0 +1,12 @@
+PLM = Product Lifecycle Management
+PMD = Product Master DataQ
+PSM 5.x = Product Structure Mangement
+NAIP = Nokia Application Integration Platform
+Q2o= Quote to order
+CPQ= Configure price quote - quote reference for deliverable Items
+CEM= Corporate entitlement mangement
+PDP= product data program
+P20= SAP based ERP system
+P10= new SAP based ERP system
+SoR= System of Reference
+FOSS= Free Opensource software
